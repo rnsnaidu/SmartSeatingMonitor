@@ -76,3 +76,20 @@ Press the 'q' key while the video feed window is active to stop the script and c
 *   `gender_net.caffemodel`: Pre-trained weights for the gender classification Caffe model.
 *   `deploy.prototxt`: Caffe model definition for an SSD (Single Shot MultiBox Detector) based face detector using a ResNet-10 backbone. (Note: This file is included in the repository but is not actively used by the `seminar_hall_analysis.py` script, which uses YOLO for person detection.)
 *   `res10_300x300_ssd_iter_140000.caffemodel`: Pre-trained Caffe model weights for the SSD-based face detector. (Note: This file is included in the repository but is not actively used by the `seminar_hall_analysis.py` script.)
+
+📊 Example Output
+When running the script:
+
+Bounding boxes around persons and chairs
+
+Gender labels next to detected persons
+
+Console output:
+Total People: 5 (Males: 3, Females: 2)
+Total Seats: 10 | Unfilled Seats: 5
+
+📌 Features
+✅ YOLOv3 for fast object detection
+✅ Gender prediction using face crops and Caffe model
+✅ Real-time seat analytics
+✅ Works with webcam or video input
