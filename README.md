@@ -93,3 +93,11 @@ Total Seats: 10 | Unfilled Seats: 5
 ✅ Gender prediction using face crops and Caffe model
 ✅ Real-time seat analytics
 ✅ Works with webcam or video input
+
+
+##OUTPUTs..
+
+![output_sample](https://github.com/user-attachments/assets/f0d83791-0327-4c9f-b50e-d73597a4da68)
+![output_sample](https://github.com/user-attachments/assets/f0d83791-0327-4c9f-b50e-d73597a4da68)
+
+
