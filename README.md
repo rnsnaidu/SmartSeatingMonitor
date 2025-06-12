@@ -97,8 +97,8 @@ Total Seats: 10 | Unfilled Seats: 5
 
 ##OUTPUTs..
      ##BEFORE
-
-    ![hall_photo](https://github.com/user-attachments/assets/27a06c05-54c6-413a-a443-a176e8bd96b5)
+![hall_photo](https://github.com/user-attachments/assets/27a06c05-54c6-413a-a443-a176e8bd96b5)
+    
      ##AFTER
 ![output_sample](https://github.com/user-attachments/assets/f0d83791-0327-4c9f-b50e-d73597a4da68)
  
