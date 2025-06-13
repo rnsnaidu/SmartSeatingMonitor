@@ -115,6 +115,7 @@ OpenCV DNN Module
 
 📮 Contact
 Maintained by RNS Naidu
-GitHub: rnsnaidu
+
+GitHub: https://github.com/rnsnaidu
 
 
