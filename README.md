@@ -1,6 +1,5 @@
 # SmartSeatingMonitor
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/rnsnaidu/SmartSeatingMonitor.git)
-
+ 
 ## Overview
 
 SmartSeatingMonitor is a Python-based project designed for real-time analysis of video feeds, such as those from seminar halls, classrooms, or public spaces. It utilizes computer vision techniques to detect and count people and seats, and to classify detected individuals by gender. The system provides on-screen statistics including total people, counts of males and females, total seats, and the number of unfilled seats.
