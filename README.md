@@ -108,12 +108,13 @@ Total Seats: 10 | Unfilled Seats: 5
 
 🤝 Acknowledgements
 YOLOv3 from pjreddie/darknet
+
 Gender models from learnopencv
+
 OpenCV DNN Module
 
 📮 Contact
 Maintained by RNS Naidu
 GitHub: rnsnaidu
- 
 
 
